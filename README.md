@@ -25,7 +25,7 @@ Install the dependencies:
 
 ```bash
 pip install pandas matplotlib seaborn
-
+```
 ---
 
 ## ▶️ How to Run
@@ -37,7 +37,7 @@ pip install pandas matplotlib seaborn
 ## Open the Jupyter notebook:
    ```bash
 jupyter notebook population_analysis.ipynb
-
+```
 # Run all cells to reproduce the analysis and visualizations.
 
 ## 📷 Example Visualization
