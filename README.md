@@ -56,7 +56,7 @@ jupyter notebook world-population-project.ipynb
 
 - [LinkedIn](https://www.linkedin.com/in/mohamed-ali-258920315/)  
 - [GitHub](https://github.com/mohamed-ali-505)  
-- [Email](mano.chero@icloud.com)  
+- [Email](mailto:mano.chero@icloud.com)  
 
 
 
