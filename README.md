@@ -31,12 +31,11 @@ pip install pandas matplotlib seaborn
 ## ▶️ How to Run
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourname/world-population-analysis.git
-   cd world-population-analysis
-
+   git clone https://github.com/yourname/world-population-project.git
+   cd world-population-project
 ## Open the Jupyter notebook:
    ```bash
-jupyter notebook population_analysis.ipynb
+jupyter notebook world-population-project.ipynb
 ```
 # Run all cells to reproduce the analysis and visualizations.
 
