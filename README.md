@@ -56,7 +56,7 @@ jupyter notebook population_analysis.ipynb
 	## 📚 Contact  
 
 - [LinkedIn](https://www.linkedin.com/in/mohamed-ali-258920315/)  
-- [GitHub]([https://github.com/usernam](https://github.com/mohamed-ali-505))  
+- [GitHub](https://github.com/mohamed-ali-505)  
 - [Email](mano.chero@icloud.com)  
 
 
